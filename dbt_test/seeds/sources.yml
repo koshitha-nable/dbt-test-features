@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: src
+    database: test 
+    schema: test
+    tables:
+      - name: dept
+      - name: brd
+      - name: ecom
+      - name: student
+      

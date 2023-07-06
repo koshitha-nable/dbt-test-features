@@ -1,0 +1,5 @@
+﻿id,port_name,state,port_code,border,date,measure
+1,Calexico East,California,2507,US-Mexico Border,3/1/2019 0:00,Trucks
+2,Van Buren,Maine,108,US-Canada Border,3/1/2019 0:00,Rail Containers Full
+3,Otay Mesa,California,2506,US-Mexico Border,3/1/2019 0:00,Trucks
+4,Nogales,Arizona,2604,US-Mexico Border,3/1/2019 0:00,Trains
