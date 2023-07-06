@@ -246,6 +246,10 @@ This command generates HTML pages documenting the models, tests, and macros in y
 dbt docs serve
 ```
 This command starts a local web server to host the documentation. You can access it by opening your browser and visiting the provided URL.
+
+###### Generated lineage graph
+![lineage graph!](lineage_graph.PNG)
+
 **Note**: Remember to generate the documentation before serving it.
 Refer the [dbt commands](https://docs.getdbt.com/reference/dbt-commands) for more details.
 

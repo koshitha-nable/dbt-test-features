@@ -159,6 +159,7 @@ dbt docs serve
 This command starts a local web server to host the documentation. You can access it by opening your browser and visiting the provided URL.
 
 ###### Generated lineage graph
+![lineage graph!](lineage_graph.PNG)
 
 **Note**: Remember to generate the documentation before serving it.
 
